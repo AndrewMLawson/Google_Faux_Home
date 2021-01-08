@@ -11,3 +11,7 @@ The skills I had to use to complete this project were:
 - HTML page creation
 - Use of Live Server
 - Git and Github to track progress and changes
+
+### Live Preview
+
+https://andrewmlawson.github.io/Google_Faux_Home/
